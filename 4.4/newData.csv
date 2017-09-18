@@ -1,0 +1,10 @@
+Age,Education Level,Gender,Home Ownership,Internet Connection,Marital Status,Movie Selector,Num Bathrooms,Num Bedrooms,Num Cars,Num Children,Num TVs,PPV Freq,Prerec Buying Freq,Prerec Format,Prerec Renting Freq,Prerec Viewing Freq,CustomerID,Theater Freq,TV Movie Freq,TV Signal
+33,Doctorate,Male,Own,Dial-Up,Married,Spouse/Partner,2.5,3,1,0,2,Rarely,Monthly,DVD,Rarely,Monthly,877687,Monthly,Monthly,Cable
+47,Doctorate,Male,Own,DSL,Married,Spouse/Partner,2,2,2,1,1,Never,Monthly,DVD,Monthly,Weekly,877723,Rarely,Weekly,Cable
+34,Doctorate,Male,Own,DSL,Married,Spouse/Partner,2.5,4,2,2,2,Never,Rarely,DVD,Weekly,Weekly,877757,Rarely,Weekly,Cable
+35,Bachelor's Degree,Male,Own,Cable Modem,Married,Me,2.5,4,2,2,2,Rarely,Rarely,DVD,Monthly,Monthly,877792,Rarely,Daily,Cable
+32,Bachelor's Degree,Male,Own,Cable Modem,Married,Me,3.5,5,2,2,3,Never,Rarely,DVD,Monthly,Monthly,877840,Monthly,Weekly,Cable
+32,Bachelor's Degree,Male,Own,No Internet Connection,Married,Me,2.5,4,2,0,1,Rarely,Rarely,DVD,Weekly,Weekly,877988,Weekly,Weekly,Digital Satellite
+32,Master's Degree,Male,Own,DSL,Married,Me,2.5,4,2,2,1,Never,Never,VHS,Rarely,Rarely,878821,Rarely,Weekly,Cable
+32,Bachelor's Degree,Male,Rent,DSL,Married,Me,2,4,2,0,2,Rarely,Rarely,DVD,Monthly,Monthly,878822,Monthly,Rarely,Cable
+39,Master's Degree,Male,Own,Dial-Up,Never Married,Me,1,1,1,0,1,Never,Rarely,DVD,Weekly,Weekly,927818,Rarely,Rarely,Cable
